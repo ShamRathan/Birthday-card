@@ -1,1 +1,33 @@
 # Java-Assignment-Week5
+## Name   : S.Sham Rathan
+## Reg.no : 212221230093
+### Create a birthday card using html:
+```
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Birthday Wishes</title>
+</head>
+<body>
+    <header>
+    <center><div style="width:700px;height:300px;background-color: rgb(255, 91, 241) ; border:5px ;">
+    <img align="right" style="height: 300px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\1.png">
+    <img align="left" style="height: 300px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\2.png">
+    <p style="font-family: Courier New;font-size:35px;color: azure;"><b>Wish You Many More</b></p>
+    <p style="font-family: Courier New;font-size:30px;color: azure;"><b> Happy Returns Of the Day</b></p>
+    <p style="font-family: Courier New;font-size:40px;color: azure;"><b> My Dear FRIEND...</b></p>
+    </center>
+</header>
+<footer>
+    <center><div style="width:700px;height:400px;background-color: rgb(81, 205, 240) ; border:5px;">
+    <img align="right" style="height: 200px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\ballon.png">
+    <img align="left" style="height: 200px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\ballon.png">
+    <img style="height:200px ; width: 290px;" src="C:\Users\shamr\OneDrive\Desktop\cake.png">
+    <p style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:20px;color: black;">I hope your day filled with love, laughter, and joy. May all your dreams come true, and may you continue to be blessed with good health, happiness, and success.May this year bring you many new and exciting opportunities, and may you look back on this day with 
+        fond memories for years to come. Cheers to another year of life and all the adventures that come with it! </p>
+    </center>
+</footer>
+</body>
+</html>
+```
+![image](https://user-images.githubusercontent.com/93587823/230589164-1ec42aaf-8e61-4d28-ab51-cca1f81be1c0.png)
