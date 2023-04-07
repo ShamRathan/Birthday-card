@@ -23,8 +23,11 @@
     <img align="right" style="height: 200px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\ballon.png">
     <img align="left" style="height: 200px;width: 200px;" src="C:\Users\shamr\OneDrive\Desktop\ballon.png">
     <img style="height:200px ; width: 290px;" src="C:\Users\shamr\OneDrive\Desktop\cake.png">
-    <p style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:20px;color: black;">I hope your day filled with love, laughter, and joy. May all your dreams come true, and may you continue to be blessed with good health, happiness, and success.May this year bring you many new and exciting opportunities, and may you look back on this day with 
-        fond memories for years to come. Cheers to another year of life and all the adventures that come with it! </p>
+    <p style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:20px;color: black;">
+    I hope your day filled with love, laughter, and joy. May all your dreams come true, and may you continue to be 
+    blessed with good health, happiness, and success.May this year bring you many new and exciting opportunities,
+    and may you look back on this day with fond memories for years to come. Cheers to another year of life and all 
+    the adventures that come with it! </p>
     </center>
 </footer>
 </body>
