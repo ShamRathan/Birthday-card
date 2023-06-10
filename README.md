@@ -14,4 +14,6 @@ To Create a Birthday card using HTML and CSS
 5.Edit App.js and enter the HTML code in the return and render.
 ## Output:
 ![image](https://github.com/ShamRathan/Java-Assignment-Week5/assets/93587823/f71f6839-a8a9-472c-a9d6-dda4c3f41e4e)
+## Result:
+Therefore we have succesfully created a Birthday card using HTML and CSS.
 
